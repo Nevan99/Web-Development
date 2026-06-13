@@ -12,6 +12,10 @@ __pycache__/
 # Pytest cache
 .pytest_cache/
 
+# Database
+*.db
+*.sqlite3
+
 # Distribution / packaging
 *.egg-info/
 dist/
